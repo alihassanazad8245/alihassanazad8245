@@ -16,11 +16,15 @@
 
 ## 👨‍💻 About Me
 
-I am a Software Engineering student at Bahria University Karachi Campus.
+## 👨‍💻 About Me
 
-My focus is on building practical, real-world systems that go beyond academic theory. I aim to develop clean, scalable, and efficient software by understanding how systems work under the hood.
+I am a Software Engineering student at Bahria University Karachi Campus, currently in my 6th semester with a strong academic performance.
 
-Currently, I am also moving toward **Cybersecurity**, learning how applications are attacked and how to secure them properly.
+My main focus is on building **real-world, practical systems** that go beyond basic academic work. I enjoy understanding how software works under the hood and aim to develop clean, scalable, and efficient solutions using strong fundamentals combined with hands-on experience.
+
+I am particularly interested in **backend development, system design, and full-stack engineering**, where I can solve complex problems and build structured, production-style applications.
+
+Alongside software engineering, I am also actively exploring **Cybersecurity**, learning how systems are attacked, how vulnerabilities appear, and how to build secure applications with strong defense in mind.
 
 ---
 
@@ -57,11 +61,17 @@ I am interested in:
 ### 🌐 Web Development
 `HTML5` `CSS3` `JavaScript` `Bootstrap` `React (Basic)` `ASP.NET Core`
 
+### ⚙️ Backend
+`.NET` `ASP.NET Core`
+
 ### 🗄️ Databases
 `SQL Server` `MySQL` `MongoDB` `Firebase`
 
 ### 🧠 Core Concepts
 `OOP` `Data Structures` `Algorithms` `Software Design` `Problem Solving`
+
+### 🧰 Tools
+`Git` `GitHub` `VS Code` `Visual Studio` `Linux` `Docker` `Vercel` `Figma`
 
 ### 🔐 Cybersecurity (Learning Path)
 `Networking Fundamentals` `Linux & System Basics` `Web Security` `Penetration Testing Basics` `Security Tools`
@@ -95,11 +105,7 @@ I am interested in:
 - Building secure and scalable applications  
 
 ---
-
-## ⚡ Philosophy
-
 > Learn deeply. Build consistently. Think like an attacker to become a better defender.
-
 ---
 
 ## 🌐 Connect With Me

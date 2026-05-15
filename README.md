@@ -16,8 +16,6 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
 I am a Software Engineering student at Bahria University Karachi Campus, currently in my 6th semester with a strong academic performance.
 
 My main focus is on building **real-world, practical systems** that go beyond basic academic work. I enjoy understanding how software works under the hood and aim to develop clean, scalable, and efficient solutions using strong fundamentals combined with hands-on experience.

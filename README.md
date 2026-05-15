@@ -1,7 +1,7 @@
 <h1 align="center">▌│█║▌║▌║  Ali Hassan Azad ║▌║▌║█│▌</h1>
 
 <p align="center">
-  Software Engineering Student • Backend Developer • Aspiring Cybersecurity Engineer
+  Software Engineering Student • Backend & System-Focused Developer • Aspiring Cybersecurity Engineer
 </p>
 
 <p align="center">

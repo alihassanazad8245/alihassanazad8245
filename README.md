@@ -83,6 +83,10 @@ I am interested in:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hassan8245&layout=compact&hide_border=true" height="170"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-hassan8245&hide_border=true" height="170"/>
+</p>
+
 ---
 
 ## 📈 Technical Profile

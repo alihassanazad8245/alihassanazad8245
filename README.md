@@ -108,6 +108,8 @@ I am interested in:
 
 ## 🌐 Connect With Me
 
+<div align="center">
+
 | Platform | Link |
 |----------|------|
 | 💼 LinkedIn | www.linkedin.com/in/alihassanazad8245 |
@@ -115,5 +117,7 @@ I am interested in:
 | 🌐 Portfolio | https://alihassanazad-portfolio.vercel.app/ |
 | 🔗 All Links | https://ali-hassan8245.github.io/Ali-Hassan-Linktree/ |
 | 📧 Email | ali8245hassan8245@gmail.com |
+
+</div>
 
 ---

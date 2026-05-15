@@ -1,4 +1,4 @@
-<h1 align="center">Ali Hassan Azad</h1>
+<h1 align="center">▌│█║▌║▌║𝘼𝙡𝙞 𝙃𝙖𝙨𝙨𝙖𝙣 𝘼𝙯𝙖𝙙║▌║▌║█│▌</h1>
 
 <p align="center">
   Software Engineering Student • Backend & System-Focused Developer

@@ -1,7 +1,7 @@
 <h1 align="center">▌│█║▌║▌║  Ali Hassan Azad ║▌║▌║█│▌</h1>
 
 <p align="center">
-  Software Engineering Student • Backend & System-Focused Developer
+  Software Engineering Student • Backend Developer • Aspiring Cybersecurity Engineer
 </p>
 
 <p align="center">
@@ -9,18 +9,18 @@
     <img src="https://komarev.com/ghpvc/?username=ali-hassan8245&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering-blue?style=flat" />
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=flat" />
+  <img src="https://img.shields.io/badge/Interest-Cybersecurity-red?style=flat" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Software Engineering student at Bahria University Karachi Campus, currently in my 6th semester with a CGPA above 3.  
+I am a Software Engineering student at Bahria University Karachi Campus.
 
-My focus is on building **real-world, practical systems** that go beyond basic academic implementations. I aim to develop scalable, maintainable, and efficient solutions by combining strong fundamentals with hands-on project experience.
+My focus is on building practical, real-world systems that go beyond academic theory. I aim to develop clean, scalable, and efficient software by understanding how systems work under the hood.
 
-I am particularly interested in **backend development, system design, and full-stack engineering**, where I can solve complex problems and build structured applications.
+Currently, I am also moving toward **Cybersecurity**, learning how applications are attacked and how to secure them properly.
 
 ---
 
@@ -28,32 +28,43 @@ I am particularly interested in **backend development, system design, and full-s
 
 - **BS Software Engineering**  
   Bahria University Karachi Campus (BUKC)  
-  CGPA: 3+ | Semester: 6th  
+  Semester: 6th  
 
 - **Intermediate (Computer Science)**  
   Fazaia Degree College, Karachi  
 
 ---
 
+## 🎯 Cybersecurity Interest
+
+I am interested in:
+
+- Ethical Hacking & Penetration Testing  
+- Secure Web Application Development  
+- Network Security & Traffic Analysis  
+- System Vulnerability Analysis  
+- Secure Coding Practices  
+
+> “Security is not a feature, it’s a mindset.”
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-`C#` `Java` `Python` `C++` `C` 
+`C#` `Java` `Python` `C++` `C`
 
-### 🌐 Frontend
-`HTML5` `CSS3` `JavaScript` `Bootstrap` `Tailwind CSS` `React (Basic)`
-
-### ⚙️ Backend
-`.NET` `ASP.NET Core`
+### 🌐 Web Development
+`HTML5` `CSS3` `JavaScript` `Bootstrap` `React (Basic)` `ASP.NET Core`
 
 ### 🗄️ Databases
 `SQL Server` `MySQL` `MongoDB` `Firebase`
 
 ### 🧠 Core Concepts
-`OOP` `Data Structures` `Algorithms` `Software Design` `Software Testing`
+`OOP` `Data Structures` `Algorithms` `Software Design` `Problem Solving`
 
-### 🧰 Tools
-`Git` `GitHub` `VS Code` `Visual Studio` `Linux` `Docker` `Vercel` `Figma`
+### 🔐 Cybersecurity (Learning Path)
+`Networking Fundamentals` `Linux & System Basics` `Web Security` `Penetration Testing Basics` `Security Tools`
 
 ---
 
@@ -64,48 +75,41 @@ I am particularly interested in **backend development, system design, and full-s
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-hassan8245&layout=compact&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-hassan8245&hide_border=true" height="170"/>
-</p>
-
 ---
 
 ## 📈 Technical Profile
 
-- Strong foundation in **Object-Oriented Programming (OOP)**  
-- Experience building **role-based and multi-module systems**  
-- Knowledge of **database design, queries, and optimization**  
-- Familiar with **Design Patterns (Singleton, Observer, Repository etc...)**  
-- Experience with both **desktop and web-based applications**  
+- Strong foundation in Object-Oriented Programming  
+- Experience with backend systems and databases  
+- Focus on secure coding practices  
+- Interest in cybersecurity and system defense  
+- Building mindset: **secure by design**
 
 ---
 
 ## 🚀 Current Focus
 
-- Advancing **full-stack development skills**  
-- Strengthening **backend architecture and API design**  
-- Practicing **DSA and problem solving**  
-- Building **clean, scalable systems**  
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://alihassanazad-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  
-  <a href="https://ali-hassan8245.github.io/Ali-Hassan-Linktree/">
-    <img src="https://img.shields.io/badge/All%20Links-000?style=for-the-badge&logo=linktree&logoColor=white"/>
-  </a>
-  
-</p>
+- Learning cybersecurity fundamentals  
+- Improving backend development skills  
+- Practicing DSA and problem solving  
+- Building secure and scalable applications  
 
 ---
 
 ## ⚡ Philosophy
 
-<p align="center">
-  I focus on consistency, structured learning, and building systems that solve real problems.
-</p>
+> Learn deeply. Build consistently. Think like an attacker to become a better defender.
+
+---
+
+## 🌐 Connect With Me
+
+| Platform | Link |
+|----------|------|
+| 💼 LinkedIn | www.linkedin.com/in/alihassanazad8245 |
+| 🐙 GitHub | https://github.com/ali-hassan8245 |
+| 🌐 Portfolio | alihassanazad-portfolio.vercel.app |
+| 🔗 All Links | https://ali-hassan8245.github.io/Ali-Hassan-Linktree/ |
+| 📧 Email | ali8245hassan8245@gmail.com |
+
+---

@@ -30,7 +30,7 @@ Alongside backend engineering, I have a strong interest in **Cybersecurity**, es
 
 - **BS Software Engineering**  
   Bahria University Karachi Campus (BUKC)  
-  Semester: 6th  
+  Semester: 7th  
 
 - **Intermediate (Computer Science)**  
   Fazaia Degree College, Karachi  

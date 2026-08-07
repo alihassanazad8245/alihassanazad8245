@@ -120,7 +120,7 @@ I am interested in:
 | Platform | Link |
 |----------|------|
 | 💼 LinkedIn | www.linkedin.com/in/alihassanazad8245 |
-| 🐙 GitHub | https://github.com/ali-hassan8245 |
+| 🐙 GitHub | https://github.com/alihassanazad8245 |
 | 🌐 Portfolio | https://alihassanazad-portfolio.vercel.app/ |
 | 🔗 All Links | https://alihassanazad8245.github.io/Ali-Hassan-Linktree/ |
 | 📧 Email | ali8245hassan8245@gmail.com |

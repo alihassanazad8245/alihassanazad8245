@@ -59,32 +59,58 @@ Currently exploring:
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-
-`C#` `Java` `Python` `C++` `C`
+- 🔷 `C#`
+- ☕ `Java`
+- 🐍 `Python`
+- ⚡ `C++`
+- 🔵 `C`
 
 ### 🌐 Web Development
-
-`HTML5` `CSS3` `JavaScript` `Bootstrap` `React (Basic)` `ASP.NET Core`
+- 🧱 `HTML5`
+- 🎨 `CSS3`
+- ⚡ `JavaScript`
+- 🅱️ `Bootstrap`
+- ⚛️ `React (Basic)`
+- 🔷 `ASP.NET Core`
 
 ### ⚙️ Backend
-
-`.NET` `ASP.NET Core` `Web API` `Entity Framework Core` `LINQ` `REST APIs`
+- 🟣 `.NET`
+- 🔷 `ASP.NET Core`
+- 🔌 `Web API`
+- 🗃️ `Entity Framework Core`
+- 🔎 `LINQ`
+- 🌐 `REST APIs`
 
 ### 🗄️ Databases
-
-`SQL Server` `MySQL` `MongoDB` `Firebase`
+- 🟦 `SQL Server`
+- 🐬 `MySQL`
+- 🍃 `MongoDB`
+- 🔥 `Firebase`
 
 ### 🧠 Core Concepts
-
-`OOP` `Data Structures` `Algorithms` `Software Design` `Problem Solving` `System Design`
+- 🧩 `OOP`
+- 📊 `Data Structures`
+- 🧮 `Algorithms`
+- 🏗️ `Software Design`
+- 🧠 `Problem Solving`
+- 🏛️ `System Design`
 
 ### 🧰 Tools & Technologies
-
-`Git` `GitHub` `Visual Studio` `VS Code` `Linux` `Docker` `Vercel` `Figma`
+- 🌿 `Git`
+- 🐙 `GitHub`
+- 🖥️ `Visual Studio`
+- 💻 `VS Code`
+- 🐧 `Linux`
+- 🐳 `Docker`
+- ▲ `Vercel`
+- 🎨 `Figma`
 
 ### 🔐 Cybersecurity
-
-`Networking Fundamentals` `Linux & System Basics` `Web Security` `OWASP Top 10` `Penetration Testing Basics` `Security Tools`
+- 🌐 `Networking Fundamentals`
+- 🐧 `Linux & System Basics`
+- 🛡️ `Web Security`
+- 🎯 `Penetration Testing Basics`
+- 🔒 `Security Tools`
 
 ---
 

@@ -64,19 +64,27 @@ Currently exploring:
   <img src="https://skillicons.dev/icons?i=cs,java,python,cpp,c" />
 </p>
 
+---
+
 ### 🌐 Web Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
 </p>
 
-### ⚙️ Backend
+`ASP.NET Core`
+
+---
+
+### ⚙️ Backend & APIs
 
 <p>
   <img src="https://skillicons.dev/icons?i=dotnet,cs" />
 </p>
 
 `ASP.NET Core` `Web API` `Entity Framework Core` `LINQ` `REST APIs`
+
+---
 
 ### 🗄️ Databases
 
@@ -86,9 +94,20 @@ Currently exploring:
 
 `SQL Server`
 
+---
+
 ### 🧠 Core Concepts
 
-`OOP` `Data Structures` `Algorithms` `Software Design` `Problem Solving` `System Design`
+<p align="left">
+  <img src="https://img.shields.io/badge/OOP-6C63FF?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-7C3AED?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Algorithms-4F46E5?style=for-the-badge&logo=thealgorithms&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Software%20Design-6366F1?style=for-the-badge&logo=blueprint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-8B5CF6?style=for-the-badge&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System%20Design-7C3AED?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
+</p>
+
+---
 
 ### 🧰 Tools & Technologies
 
@@ -96,13 +115,20 @@ Currently exploring:
   <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,linux,docker,vercel,figma" />
 </p>
 
+---
+
 ### 🔐 Cybersecurity
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,bash" />
 </p>
 
-`Networking Fundamentals` `Linux & System Basics` `Web Security` `Penetration Testing Basics` `Security Tools`
+<p>
+  <img src="https://img.shields.io/badge/Networking%20Fundamentals-0EA5E9?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Security-DC2626?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Penetration%20Testing-7C3AED?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security%20Tools-111827?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+</p>
 
 ---
 

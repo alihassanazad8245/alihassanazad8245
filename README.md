@@ -134,6 +134,7 @@ Alongside backend engineering, I am actively exploring **Cybersecurity**, with a
 
 ## 🚀 Current Focus
 
+```yaml
 - Improving **.NET & ASP.NET Core backend development**
 - Expanding **Full Stack Development** skills
 - Building **REST APIs and scalable backend systems**
@@ -146,6 +147,7 @@ Alongside backend engineering, I am actively exploring **Cybersecurity**, with a
 - Contributing to **Open Source Projects**
 - Building **real-world, production-oriented applications**
 - Strengthening **software engineering fundamentals**
+```
 
 ---
 

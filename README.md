@@ -5,8 +5,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;.NET+Backend+Developer;Full+Stack+Developer;Cybersecurity+Enthusiast;Open+Source+Collaboration;Building+Secure+Backend+Systems;Learning+%26+Building+Every+Day)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=ali-hassan8245">
-    <img src="https://komarev.com/ghpvc/?username=ali-hassan8245&label=Profile%20Views&color=0e75b6&style=flat" />
+  <a href="https://komarev.com/ghpvc/?username=alihassanazad8245">
+    <img src="https://komarev.com/ghpvc/?username=alihassanazad8245&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
   <img src="https://img.shields.io/badge/Focus-.NET%20Backend-blue?style=flat" />
   <img src="https://img.shields.io/badge/Interest-Cybersecurity-red?style=flat" />
@@ -96,7 +96,7 @@ Currently exploring:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-hassan8245&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihassanazad8245&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -145,7 +145,7 @@ Currently exploring:
 | Platform     | Link                                                                               |
 | ------------ | ---------------------------------------------------------------------------------- |
 | 💼 LinkedIn  | [linkedin.com/in/alihassanazad8245](https://www.linkedin.com/in/alihassanazad8245) |
-| 🐙 GitHub    | [github.com/ali-hassan8245](https://github.com/alihassanazad8245)                     |
+| 🐙 GitHub    | [github.com/alihassanazad8245](https://github.com/alihassanazad8245)                     |
 | 🌐 Portfolio | [alihassanazad-portfolio.vercel.app](https://alihassanazad-portfolio.vercel.app/)  |
 | 🔗 All Links | [Ali Hassan Linktree](https://alihassanazad8245.github.io/Ali-Hassan-Linktree/)        |
 | 📧 Email     | [ali8245hassan8245@gmail.com](mailto:ali8245hassan8245@gmail.com)                  |

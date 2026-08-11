@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,50:7C3AED,100:4F46E5&text=ALI%20HASSAN%20AZAD&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20Backend%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&duration=3500\&pause=1000\&color=7C3AED\&center=true\&vCenter=true\&width=900\&lines=Software+Engineering+Student;-.NET+Backend+Developer;Cybersecurity+Enthusiast;Building+Secure+Backend+Systems;Learning+%26+Building+Every+Day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;.NET+Backend+Developer;Full+Stack+Developer;Cybersecurity+Enthusiast;Open+Source+Collaboration;Building+Secure+Backend+Systems;Learning+%26+Building+Every+Day)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ali-hassan8245">
@@ -103,24 +103,34 @@ Currently exploring:
 
 ## 📈 Technical Profile
 
-* Strong foundation in **C# and .NET backend development**
-* Experience building **backend and database-driven applications**
-* Understanding of **REST APIs, Entity Framework Core, and SQL databases**
-* Focus on **clean and maintainable code**
-* Growing knowledge of **application and network security**
-* Strong interest in **cybersecurity and system defense**
-* Building mindset: **Secure by Design**
+- Strong foundation in **C# and .NET backend development**
+- Experience building **backend and database-driven applications**
+- Understanding of **REST APIs, Entity Framework Core, and SQL databases**
+- Full Stack Development with **HTML, CSS, JavaScript, React, and ASP.NET Core**
+- Focus on **clean, maintainable, and scalable code**
+- Strong understanding of **OOP, DSA, software design, and problem solving**
+- Growing knowledge of **application, web, and network security**
+- Strong interest in **cybersecurity, ethical hacking, and system defense**
+- Experience working with **Git, GitHub, Docker, and development tools**
+- Interested in **Open Source Collaboration** and real-world software projects
+- Building mindset: **Secure by Design**
 
 ---
 
 ## 🚀 Current Focus
 
-* Improving **.NET backend development**
-* Learning **cybersecurity fundamentals**
-* Exploring **secure application architecture**
-* Practicing **DSA and problem solving**
-* Building **scalable and secure applications**
-* Strengthening **software engineering fundamentals**
+- Improving **.NET & ASP.NET Core backend development**
+- Expanding **Full Stack Development** skills
+- Building **REST APIs and scalable backend systems**
+- Learning **cybersecurity and OWASP fundamentals**
+- Strengthening **networking and Linux fundamentals**
+- Exploring **secure application architecture**
+- Practicing **DSA and problem solving**
+- Improving **database design and optimization**
+- Exploring **Docker, deployment, and cloud technologies**
+- Contributing to **Open Source Projects**
+- Building **real-world, production-oriented applications**
+- Strengthening **software engineering fundamentals**
 
 ---
 
@@ -135,11 +145,19 @@ Currently exploring:
 | Platform     | Link                                                                               |
 | ------------ | ---------------------------------------------------------------------------------- |
 | 💼 LinkedIn  | [linkedin.com/in/alihassanazad8245](https://www.linkedin.com/in/alihassanazad8245) |
-| 🐙 GitHub    | [github.com/ali-hassan8245](https://github.com/ali-hassan8245)                     |
+| 🐙 GitHub    | [github.com/ali-hassan8245](https://github.com/alihassanazad8245)                     |
 | 🌐 Portfolio | [alihassanazad-portfolio.vercel.app](https://alihassanazad-portfolio.vercel.app/)  |
-| 🔗 All Links | [Ali Hassan Linktree](https://alihassan8245.github.io/Ali-Hassan-Linktree/)        |
+| 🔗 All Links | [Ali Hassan Linktree](https://alihassanazad8245.github.io/Ali-Hassan-Linktree/)        |
 | 📧 Email     | [ali8245hassan8245@gmail.com](mailto:ali8245hassan8245@gmail.com)                  |
 
 </div>
 
 ---
+
+<div align="center">
+
+> *"Engineering intelligent software that creates meaningful impact."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:6C63FF,50:7C3AED,100:4F46E5"/>
+
+</div>

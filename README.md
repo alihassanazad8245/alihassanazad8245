@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,50:7C3AED,100:4F46E5&text=ALI%20HASSAN%20AZAD&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20Backend%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,50:7C3AED,100:4F46E5&text=ALI%20HASSAN%20AZAD&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;.NET+Developer;Full+Stack+Developer;Cybersecurity+Enthusiast;Open+Source+Collaboration;Building+Secure+Backend+Systems;Learning+%26+Building+Every+Day)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;.NET+Backend+Developer;Full+Stack+Developer;Cybersecurity+Enthusiast;Open+Source+Collaboration;Building+Secure+Backend+Systems;Learning+%26+Building+Every+Day)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=alihassanazad8245">

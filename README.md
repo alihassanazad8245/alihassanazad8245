@@ -1,8 +1,8 @@
-<h1 align="center">▌│█║▌║▌║  Ali Hassan Azad ║▌║▌║█│▌</h1>
+<div align="center">
 
-<p align="center">
-  Software Engineering Student • .NET Backend Developer • Aspiring Cybersecurity Engineer
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:6C63FF,50:7C3AED,100:4F46E5&text=ALI%20HASSAN%20AZAD&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20Backend%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=58"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=24\&duration=3500\&pause=1000\&color=7C3AED\&center=true\&vCenter=true\&width=900\&lines=Software+Engineering+Student;-.NET+Backend+Developer;Cybersecurity+Enthusiast;Building+Secure+Backend+Systems;Learning+%26+Building+Every+Day)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ali-hassan8245">
@@ -12,67 +12,78 @@
   <img src="https://img.shields.io/badge/Interest-Cybersecurity-red?style=flat" />
 </p>
 
+</div>
+
 ---
 
 ## 👨‍💻 About Me
 
-I am a Software Engineering student at Bahria University Karachi Campus, currently in my 6th semester with a strong academic performance.
+I am a **Software Engineering student at Bahria University Karachi Campus**, currently in my **7th semester**, with a strong interest in backend engineering, software architecture, and cybersecurity.
 
-My main focus is on building **real-world, practical backend systems** with clean architecture, scalability, and security in mind. I enjoy understanding how applications work internally and developing efficient solutions using strong programming fundamentals.
+My main focus is building **real-world, practical backend systems** with clean architecture, scalability, performance, and security in mind. I enjoy understanding how systems work internally and turning ideas into structured, reliable applications.
 
-I am mainly focused on **.NET backend development**, building APIs, working with databases, and exploring software architecture concepts to create structured and production-ready applications.
+I specialize in **.NET backend development**, including API development, database-driven applications, Entity Framework Core, REST APIs, and software architecture.
 
-Alongside backend engineering, I have a strong interest in **Cybersecurity**, especially understanding vulnerabilities, secure application development, network security, and how defensive techniques can be applied to build safer systems.
+Alongside backend engineering, I am actively exploring **Cybersecurity**, with a particular interest in web application security, secure coding, networking, vulnerability assessment, and defensive security practices.
 
 ---
 
 ## 🎓 Education
 
-- **BS Software Engineering**  
-  Bahria University Karachi Campus (BUKC)  
-  Semester: 7th  
+* **BS Software Engineering**
+  Bahria University Karachi Campus (BUKC)
+  **Semester: 7th**
 
-- **Intermediate (Computer Science)**  
-  Fazaia Degree College, Karachi  
+* **Intermediate (Computer Science)**
+  Fazaia Degree College, Karachi
 
 ---
 
 ## 🎯 Cybersecurity Interest
 
-I am interested in:
+Currently exploring:
 
-- Ethical Hacking & Penetration Testing  
-- Secure .NET Application Development  
-- Web Application Security  
-- Network Security & Traffic Analysis  
-- Vulnerability Assessment  
-- Secure Coding Practices  
+* Ethical Hacking & Penetration Testing
+* Secure .NET Application Development
+* Web Application Security
+* Network Security & Traffic Analysis
+* Vulnerability Assessment
+* Secure Coding Practices
+* OWASP Top 10
+* Linux & System Security
 
-> “Security is not a feature, it’s a mindset.”
+> “Security is not a feature, it's a mindset.”
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+
 `C#` `Java` `Python` `C++` `C`
 
 ### 🌐 Web Development
+
 `HTML5` `CSS3` `JavaScript` `Bootstrap` `React (Basic)` `ASP.NET Core`
 
 ### ⚙️ Backend
+
 `.NET` `ASP.NET Core` `Web API` `Entity Framework Core` `LINQ` `REST APIs`
 
 ### 🗄️ Databases
+
 `SQL Server` `MySQL` `MongoDB` `Firebase`
 
 ### 🧠 Core Concepts
+
 `OOP` `Data Structures` `Algorithms` `Software Design` `Problem Solving` `System Design`
 
-### 🧰 Tools
+### 🧰 Tools & Technologies
+
 `Git` `GitHub` `Visual Studio` `VS Code` `Linux` `Docker` `Vercel` `Figma`
 
-### 🔐 Cybersecurity (Learning Path)
+### 🔐 Cybersecurity
+
 `Networking Fundamentals` `Linux & System Basics` `Web Security` `OWASP Top 10` `Penetration Testing Basics` `Security Tools`
 
 ---
@@ -92,38 +103,42 @@ I am interested in:
 
 ## 📈 Technical Profile
 
-- Strong foundation in C# and .NET backend development  
-- Experience building backend systems and database-driven applications  
-- Understanding of REST APIs, Entity Framework Core, and SQL databases  
-- Focus on secure coding practices and application security  
-- Interest in cybersecurity and system defense  
-- Building mindset: **secure by design**
+* Strong foundation in **C# and .NET backend development**
+* Experience building **backend and database-driven applications**
+* Understanding of **REST APIs, Entity Framework Core, and SQL databases**
+* Focus on **clean and maintainable code**
+* Growing knowledge of **application and network security**
+* Strong interest in **cybersecurity and system defense**
+* Building mindset: **Secure by Design**
 
 ---
 
 ## 🚀 Current Focus
 
-- Improving .NET backend development skills  
-- Learning cybersecurity fundamentals  
-- Exploring secure application architecture  
-- Practicing DSA and problem solving  
-- Building scalable and secure applications  
+* Improving **.NET backend development**
+* Learning **cybersecurity fundamentals**
+* Exploring **secure application architecture**
+* Practicing **DSA and problem solving**
+* Building **scalable and secure applications**
+* Strengthening **software engineering fundamentals**
 
 ---
+
 > Learn deeply. Build consistently. Think like an attacker to become a better defender.
+
 ---
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-| Platform | Link |
-|----------|------|
-| 💼 LinkedIn | www.linkedin.com/in/alihassanazad8245 |
-| 🐙 GitHub | https://github.com/alihassanazad8245 |
-| 🌐 Portfolio | https://alihassanazad-portfolio.vercel.app/ |
-| 🔗 All Links | https://alihassanazad8245.github.io/Ali-Hassan-Linktree/ |
-| 📧 Email | ali8245hassan8245@gmail.com |
+| Platform     | Link                                                                               |
+| ------------ | ---------------------------------------------------------------------------------- |
+| 💼 LinkedIn  | [linkedin.com/in/alihassanazad8245](https://www.linkedin.com/in/alihassanazad8245) |
+| 🐙 GitHub    | [github.com/ali-hassan8245](https://github.com/ali-hassan8245)                     |
+| 🌐 Portfolio | [alihassanazad-portfolio.vercel.app](https://alihassanazad-portfolio.vercel.app/)  |
+| 🔗 All Links | [Ali Hassan Linktree](https://alihassan8245.github.io/Ali-Hassan-Linktree/)        |
+| 📧 Email     | [ali8245hassan8245@gmail.com](mailto:ali8245hassan8245@gmail.com)                  |
 
 </div>
 

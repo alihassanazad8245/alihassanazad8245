@@ -140,7 +140,7 @@ Currently exploring:
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<div align="center"> 
 
 | Platform     | Link                                                                               |
 | ------------ | ---------------------------------------------------------------------------------- |

@@ -59,58 +59,50 @@ Currently exploring:
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- 🔷 `C#`
-- ☕ `Java`
-- 🐍 `Python`
-- ⚡ `C++`
-- 🔵 `C`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,python,cpp,c" />
+</p>
 
 ### 🌐 Web Development
-- 🧱 `HTML5`
-- 🎨 `CSS3`
-- ⚡ `JavaScript`
-- 🅱️ `Bootstrap`
-- ⚛️ `React (Basic)`
-- 🔷 `ASP.NET Core`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+</p>
 
 ### ⚙️ Backend
-- 🟣 `.NET`
-- 🔷 `ASP.NET Core`
-- 🔌 `Web API`
-- 🗃️ `Entity Framework Core`
-- 🔎 `LINQ`
-- 🌐 `REST APIs`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs" />
+</p>
+
+`ASP.NET Core` `Web API` `Entity Framework Core` `LINQ` `REST APIs`
 
 ### 🗄️ Databases
-- 🟦 `SQL Server`
-- 🐬 `MySQL`
-- 🍃 `MongoDB`
-- 🔥 `Firebase`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+</p>
+
+`SQL Server`
 
 ### 🧠 Core Concepts
-- 🧩 `OOP`
-- 📊 `Data Structures`
-- 🧮 `Algorithms`
-- 🏗️ `Software Design`
-- 🧠 `Problem Solving`
-- 🏛️ `System Design`
+
+`OOP` `Data Structures` `Algorithms` `Software Design` `Problem Solving` `System Design`
 
 ### 🧰 Tools & Technologies
-- 🌿 `Git`
-- 🐙 `GitHub`
-- 🖥️ `Visual Studio`
-- 💻 `VS Code`
-- 🐧 `Linux`
-- 🐳 `Docker`
-- ▲ `Vercel`
-- 🎨 `Figma`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,linux,docker,vercel,figma" />
+</p>
 
 ### 🔐 Cybersecurity
-- 🌐 `Networking Fundamentals`
-- 🐧 `Linux & System Basics`
-- 🛡️ `Web Security`
-- 🎯 `Penetration Testing Basics`
-- 🔒 `Security Tools`
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash" />
+</p>
+
+`Networking Fundamentals` `Linux & System Basics` `Web Security` `Penetration Testing Basics` `Security Tools`
 
 ---
 

@@ -151,7 +151,9 @@ Alongside backend engineering, I am actively exploring **Cybersecurity**, with a
 
 ---
 
+```yaml
 > Learn deeply. Build consistently. Think like an attacker to become a better defender.
+```
 
 ---
 

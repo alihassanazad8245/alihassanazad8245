@@ -116,38 +116,38 @@ Alongside backend engineering, I am actively exploring **Cybersecurity**, with a
 
 ---
 
+---
+
 ## 📈 Technical Profile
 
-- Strong foundation in **C# and .NET backend development**
-- Experience building **backend and database-driven applications**
-- Understanding of **REST APIs, Entity Framework Core, and SQL databases**
-- Full Stack Development with **HTML, CSS, JavaScript, React, and ASP.NET Core**
-- Focus on **clean, maintainable, and scalable code**
-- Strong understanding of **OOP, DSA, software design, and problem solving**
-- Growing knowledge of **application, web, and network security**
-- Strong interest in **cybersecurity, ethical hacking, and system defense**
-- Experience working with **Git, GitHub, Docker, and development tools**
-- Interested in **Open Source Collaboration** and real-world software projects
-- Building mindset: **Secure by Design**
+- 💻 Strong foundation in **C# and .NET backend development**
+- 🗄️ Experience building **backend and database-driven applications**
+- 🔌 Understanding of **REST APIs, Entity Framework Core, and SQL databases**
+- 🌐 Full Stack Development with **HTML, CSS, JavaScript, React, and ASP.NET Core**
+- 🏗️ Focus on **clean, maintainable, and scalable code**
+- 🧠 Strong understanding of **OOP, DSA, software design, and problem solving**
+- 🔐 Growing knowledge of **application, web, and network security**
+- 🛡️ Strong interest in **cybersecurity, ethical hacking, and system defense**
+- 🧰 Experience working with **Git, GitHub, Docker, and modern development tools**
+- 🌍 Interested in **Open Source Collaboration** and real-world software projects
+- 🎯 Building mindset: **Secure by Design**
 
 ---
 
 ## 🚀 Current Focus
 
-```yaml
-- Improving **.NET & ASP.NET Core backend development**
-- Expanding **Full Stack Development** skills
-- Building **REST APIs and scalable backend systems**
-- Learning **cybersecurity and OWASP fundamentals**
-- Strengthening **networking and Linux fundamentals**
-- Exploring **secure application architecture**
-- Practicing **DSA and problem solving**
-- Improving **database design and optimization**
-- Exploring **Docker, deployment, and cloud technologies**
-- Contributing to **Open Source Projects**
-- Building **real-world, production-oriented applications**
-- Strengthening **software engineering fundamentals**
-```
+- ⚙️ Improving **.NET & ASP.NET Core backend development**
+- 🌐 Expanding **Full Stack Development** skills
+- 🔌 Building **REST APIs and scalable backend systems**
+- 🛡️ Learning **cybersecurity and OWASP fundamentals**
+- 🌐 Strengthening **networking and Linux fundamentals**
+- 🏗️ Exploring **secure application architecture**
+- 🧩 Practicing **DSA and problem solving**
+- 🗄️ Improving **database design and optimization**
+- 🐳 Exploring **Docker, deployment, and cloud technologies**
+- 🌱 Contributing to **Open Source Projects**
+- 🚀 Building **real-world, production-oriented applications**
+- 📚 Strengthening **software engineering fundamentals**
 
 ---
 

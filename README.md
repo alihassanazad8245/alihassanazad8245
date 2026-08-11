@@ -60,41 +60,44 @@ Currently exploring:
 
 ### 💻 Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,java,python,cpp,c" />
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-6C63FF?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-7C3AED?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-4F46E5?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-6366F1?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-8B5CF6?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
-
----
 
 ### 🌐 Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-6C63FF?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-7C3AED?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-4F46E5?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-6366F1?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-8B5CF6?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-7C3AED?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </p>
 
-`ASP.NET Core`
+### ⚙️ Backend
 
----
-
-### ⚙️ Backend & APIs
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,cs" />
+<p align="left">
+  <img src="https://img.shields.io/badge/.NET-6C63FF?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-7C3AED?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20API-4F46E5?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-6366F1?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LINQ-8B5CF6?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-7C3AED?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
-
-`ASP.NET Core` `Web API` `Entity Framework Core` `LINQ` `REST APIs`
-
----
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL%20Server-6C63FF?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-7C3AED?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4F46E5?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-6366F1?style=for-the-badge&logo=firebase&logoColor=white"/>
 </p>
-
-`SQL Server`
-
----
 
 ### 🧠 Core Concepts
 
@@ -107,40 +110,27 @@ Currently exploring:
   <img src="https://img.shields.io/badge/System%20Design-7C3AED?style=for-the-badge&logo=diagrams.net&logoColor=white"/>
 </p>
 
----
-
 ### 🧰 Tools & Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,linux,docker,vercel,figma" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-6C63FF?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-4F46E5?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-6366F1?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-8B5CF6?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-7C3AED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-4F46E5?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
-
----
 
 ### 🔐 Cybersecurity
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Networking%20Fundamentals-0EA5E9?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Web%20Security-DC2626?style=for-the-badge&logo=owasp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Penetration%20Testing-7C3AED?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Security%20Tools-111827?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alihassanazad8245&show_icons=true&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihassanazad8245&layout=compact&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihassanazad8245&hide_border=true" height="170"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Networking-6C63FF?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux%20Security-7C3AED?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Security-4F46E5?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Penetration%20Testing-6366F1?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Security%20Tools-8B5CF6?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
 
 ---
